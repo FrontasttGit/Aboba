@@ -1,0 +1,26 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+.post_img {
+    width: 800px;
+    height: 500px;
+    border-radius: 26px;
+}
+.post a {
+    text-decoration: solid;
+}
+.post2 a {
+    text-decoration: solid;
+}
+.post3 a {
+    text-decoration: solid;
+}
+.pic {
+    border-radius: 80px;
+}
+.post_desc_img {
+    width: 800px;
+    height: 500px;
+    border-radius: 26px;
+}
